@@ -28,6 +28,19 @@ The User can create a Task which they want to do after they are loggedin it chec
 - #### Update and Delete Tasks 
 The User can update and delete any Task which they want after they are loggedin it checks for a valid token when updating or deleting  otherwise it redirects to Login page
 
+![1](https://user-images.githubusercontent.com/93770002/155843583-56284687-7f17-424e-9edc-840d996d04f8.png)
+
+![2](https://user-images.githubusercontent.com/93770002/155843588-55a7b960-481d-4a44-b0d2-d63d6f6d2ecb.png)
+
+![3](https://user-images.githubusercontent.com/93770002/155843600-6839dbb7-f57b-4ce7-bb1c-8fcc363cb932.png)
+
+![4](https://user-images.githubusercontent.com/93770002/155843605-fe7f4bec-5f75-49ca-815c-6d0251715315.png)
+
+![5](https://user-images.githubusercontent.com/93770002/155843615-180f60ff-569e-43dc-971e-9c1ba7651852.png)
+
+##### Tokens being passed in HTTPOnly Cookies
+
+![tokens](https://user-images.githubusercontent.com/93770002/155843622-e22bb4ea-0d9f-40cc-811e-1198108918ed.PNG)
 
 
 ### End
