@@ -4,6 +4,7 @@
 
 - Authentication
 - Protected Routes in React
+- nested Routeing in React Router Dom V6
 - Cors in detail
 - Cookies
 - JWTs
